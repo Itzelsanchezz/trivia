@@ -10,11 +10,11 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 
 ### Goal 1: Render a question from sample_data.json on the screen.
 
-- [ ] In App.jsx, create a Question component.
-- [ ] Render an instance of `<Question />` inside of `<App />`.
-- [ ] Add props to `<Question />` with the text "Question goes here".
-- [ ] In `<App />`, add a variable to set the current question number to 0.
-- [ ] Replace "Question goes here" with the `question.text` field found in data for the first question.
+- [x] In App.jsx, create a Question component.
+- [x] Render an instance of `<Question />` inside of `<App />`.
+- [x] Add props to `<Question />` with the text "Question goes here".
+- [x] In `<App />`, add a variable to set the current question number to 0.
+- [x] Replace "Question goes here" with the `question.text` field found in data for the first question.
   - [ ] HINT: Use the question number variable you just wrote.
 - [ ] BONUS: Add styling to your app.
 
@@ -91,4 +91,4 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 - [ ] Make a counter that keeps track of how many times you've guessed the correct answer.
 - [ ] Change the color of the answer buttons when the user guesses. For example turn the button with the correct answer to green.
 - [ ] Make it a two player game.
-- [ ] Anything else you want if you have time!
+- [ ] Anything else you want!
